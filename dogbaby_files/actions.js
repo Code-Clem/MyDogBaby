@@ -116,15 +116,15 @@ const Actions = [{
         hsla: color3
       },
       {
+        text: 'X',
+        hsla: color2
+      },
+      {
         text: 'Y',
         hsla: color2
       },
       {
-        text: 'O',
-        hsla: color2
-      },
-      {
-        text: 'U',
+        text: 'T',
         hsla: color2
       },
     ]
